@@ -42,6 +42,6 @@ nav a:hover {
   font-size: 1rem;
 }
 
-font-family {
-  : 'Patua One', cursive, sans-serif;
+html {
+  font-family: 'Patua One', sans-serif;
 }
